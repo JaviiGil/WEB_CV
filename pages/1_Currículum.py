@@ -24,7 +24,7 @@ col_11.write("Trabajé dentro del grupo de colaboración con Vodafone en el depa
 
 # Proyectos
 st.write("## Proyectos")
-st.write("- **Algoritmo A* en el metro de Kiev**")
+st.write("- **Algoritmo A estrella en el metro de Kiev**")
 col_111, col_222 = st.columns(2)
 col_111.write("**Objetivo**: calcular la ruta óptima para desplazarse por la ciudad de Kiev usando el metro.")
 col_222.write("**Implementación**: usando conocimientos de Inteligencia Artificial sobre el lenguaje de Python.")
