@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title("¿Son los cantantes virtuales el futuro del pop?")
 
+st.markdown("""![Portada](https://github.com/JaviiGil/WEB_CV/blob/main/portada_blog.png?raw=true)""")
+
 st.subheader("Introducción")
 st.write("""
     En la era digital, los avances tecnológicos han transformado la industria musical de maneras sorprendentes. Una de las tendencias más intrigantes es el surgimiento de cantantes virtuales, figuras generadas por inteligencia artificial y software avanzado de síntesis de voz. Estos artistas no humanos están comenzando a ganar popularidad, especialmente en el género del pop. En este blog, exploraremos el fenómeno de los cantantes virtuales, sus ventajas, desafíos y el impacto que podrían tener en el futuro de la música pop.
