@@ -28,7 +28,7 @@ import streamlit as st
 
 # Encabezado con foto de perfil
 st.title('Javier Gil Domínguez')
-st.write("##**Científico de Datos**")
+st.write("**Científico de Datos**")
 st.image('foto_cv_05_2023.jpg', width=170)
 
 # Información de contacto
@@ -47,7 +47,7 @@ st.write('Me considero una persona responsable, social, organizada y sobre todo 
 st.write("\n")
 st.write("\n")
 st.write("## Carta de Motivación Amazon Student Program")
-with open("carta_motivacion.pdf", "rb") as pdf_file:
+with open("CartaPresentacion.pdf", "rb") as pdf_file:
     carta_presentacion = pdf_file.read()
 st.download_button("Descargar Carta de Presentacion", data=carta_presentacion, file_name='Carta de Presentacion.pdf', mime='application/pdf')
 
