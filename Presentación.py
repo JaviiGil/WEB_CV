@@ -1,31 +1,5 @@
 import streamlit as st
 
-# Configurar el ancho de la página
-# st.set_page_config(layout="wide")
-
-
-# # Añadir el fondo de pantalla usando CSS
-
-# page_element = """
-# <style>
-# [data-testid="stAppViewContainer"] {
-#   background-image: url("https://digitalpm.es/wp-content/uploads/2017/11/3881153-big-data-wallpaper.jpg");
-#   background-size: cover;
-#   background-attachment: fixed;
-# }
-# .content-box {
-#   background-color: rgba(255, 255, 255, 0.8);
-#   padding: 20px;
-#   border-radius: 10px;
-#   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-#   margin: 20px;
-# }
-# </style>
-# """
-
-# st.markdown(page_element, unsafe_allow_html=True)
-# st.markdown('<div class="content-box">', unsafe_allow_html=True)
-
 # Encabezado con foto de perfil
 st.title('Javier Gil Domínguez')
 st.write("**Científico de Datos**")
