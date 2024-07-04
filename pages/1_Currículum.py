@@ -69,4 +69,4 @@ with open("CV_Infografico.pdf", "rb") as pdf_file:
 
 st.download_button("Descargar CV Tradicional", data=cv_tradicional, file_name= 'CV.pdf', mime='pdf')
 st.download_button("Descargar CV Infográfico", data=cv_infografico, file_name= 'CV Infografico.pdf', mime='pdf')
-st.link_button("Vídeo Currículum", "https://drive.google.com/drive/u/0/home")
+st.link_button("Vídeo Currículum", "https://drive.google.com/file/d/1CUWz7IlT7lffo3dyIC0FLUdJJXml6Kod/view?usp=sharing")
