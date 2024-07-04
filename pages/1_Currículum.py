@@ -18,7 +18,7 @@ st.write('[**LinkedIn**](https://www.linkedin.com/in/javier-gil-dom%C3%ADnguez-7
 
 # Experiencia Laboral
 st.write("## Experiencia Laboral")
-st.write("**Viewnext Prácticas (Mayo 2024 - Junio 2024), ** Madrid: *Becario*")
+st.write("**Viewnext Prácticas (Mayo 2024 - Junio 2024)**, Madrid: Becario")
 col_11, col_22 = st.columns(2)
 col_11.write("Trabajé dentro del grupo de colaboración con Vodafone en el departamento del Data Warehouse de Viewnext. Desarrollé métodos de automatización de procesos y trabajé en etapas de desarrollo de procesos reales como la creación de evidencias o la definición de universos y tablas de datos.")
 
