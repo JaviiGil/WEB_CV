@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 # Encabezado con foto de perfil
 st.write("# Javier Gil Domínguez")
-st.write("##* *Científico de Datos**")
+st.write("**Científico de Datos**")
 st.image('foto_cv_05_2023.jpg', width=170)
 
 # Información de contacto
